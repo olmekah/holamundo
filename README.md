@@ -1,2 +1,2 @@
 # holamundo
-Hola Mundo paera el Curso
+Hola Mundo para el Curso
